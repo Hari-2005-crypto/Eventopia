@@ -18,30 +18,11 @@ Create Event
 - Choose promotional settings (email campaigns, social media sharing)
 - Add speakers, sponsors, and exhibitors
 
-Promote Event
-- Share event details on social media
-- Send email invitations to contacts
-- Utilize SEO tools for online visibility
-
-Manage Attendees
-- View attendee list
-- Approve registrations
-- Send updates and reminders
 
 Handle Payments
 - Process ticket sales
 - Manage refunds and cancellations
 - Track revenue and expenses
-
-Prepare Venue
-- Coordinate with venue staff
-- Set up seating arrangements
-- Ensure technical requirements are met
-
-Execute Event
-- Check-in attendees
-- Manage on-site logistics
-- Oversee sessions and activities
 
 Gather Feedback
 - Send post-event surveys
